@@ -1,4 +1,4 @@
-# Hi, I'm Nicolas 👋👨🏽‍💻🏼
+# Hi, I'm Nicolas 👋👨🏽‍💻
 
 <!--
 **Nicolas-LS/nicolas-ls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
